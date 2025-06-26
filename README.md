@@ -10,4 +10,6 @@ Technologies Applied: Python Pandas Matplotlib Seaborn
 *Steps followed :
 
 Loaded the dataset from GitHub. Generated summary statistics (mean, median, std). Plotted histograms and boxplots for numerical columns. Created a correlation heatmap and pairplots. Identified skewness, outliers, and correlations.
+
+
 output:[Exploratory data analysis task2 output.pdf](https://github.com/user-attachments/files/20921367/Exploratory.data.analysis.task2.output.pdf)
